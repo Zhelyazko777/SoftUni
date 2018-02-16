@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miles to Kilometers", "Miles to Kilometers\Miles to Kilometers.csproj", "{0A7D381C-D2CD-4714-BA56-67867E18BCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beverage Labels", "Beverage Labels\Beverage Labels.csproj", "{70BC5650-3A89-4313-AEF7-E1BDC8BE0A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character Stats", "Character Stats\Character Stats.csproj", "{59402F44-6133-4843-9735-5DC0A021D866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7D381C-D2CD-4714-BA56-67867E18BCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7D381C-D2CD-4714-BA56-67867E18BCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7D381C-D2CD-4714-BA56-67867E18BCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7D381C-D2CD-4714-BA56-67867E18BCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BC5650-3A89-4313-AEF7-E1BDC8BE0A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BC5650-3A89-4313-AEF7-E1BDC8BE0A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BC5650-3A89-4313-AEF7-E1BDC8BE0A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BC5650-3A89-4313-AEF7-E1BDC8BE0A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59402F44-6133-4843-9735-5DC0A021D866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59402F44-6133-4843-9735-5DC0A021D866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59402F44-6133-4843-9735-5DC0A021D866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59402F44-6133-4843-9735-5DC0A021D866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
